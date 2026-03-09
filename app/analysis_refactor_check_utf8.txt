@@ -1,0 +1,8 @@
+﻿Analyzing lib...                                                
+
+   info - Don't invoke 'print' in production code - lib\main.dart:13:5 - avoid_print
+warning - The value of the field '_mapController' isn't used - lib\screens\map_tab.dart:17:24 - unused_field
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:16:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:26:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:45:7 - avoid_print
+

@@ -1,0 +1,20 @@
+﻿Analyzing lib...                                                
+
+warning - Unused import: 'package:firebase_core/firebase_core.dart' - lib\main.dart:2:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\main.dart:14:5 - avoid_print
+  error - The body might complete normally, causing 'null' to be returned, but the return type, 'Widget', is a potentially non-nullable type - lib\screens\discover_tab.dart:433:10 - body_might_complete_normally
+warning - The label 'builder' isn't used - lib\screens\discover_tab.dart:434:7 - unused_label
+warning - The value of the local variable 'appState' isn't used - lib\screens\discover_tab.dart:435:15 - unused_local_variable
+  error - Expected to find ';' - lib\screens\discover_tab.dart:551:7 - expected_token
+  error - Expected an identifier - lib\screens\discover_tab.dart:551:8 - missing_identifier
+  error - Expected to find ';' - lib\screens\discover_tab.dart:551:8 - expected_token
+  error - Unexpected text ';' - lib\screens\discover_tab.dart:551:8 - unexpected_token
+  error - Expected an identifier - lib\screens\discover_tab.dart:552:5 - missing_identifier
+  error - Unexpected text ';' - lib\screens\discover_tab.dart:552:5 - unexpected_token
+   info - Unnecessary empty statement - lib\screens\discover_tab.dart:552:6 - empty_statements
+warning - The value of the field '_formKey' isn't used - lib\screens\login_screen.dart:15:9 - unused_field
+warning - The value of the field '_mapController' isn't used - lib\screens\map_tab.dart:17:24 - unused_field
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:16:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:26:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:45:7 - avoid_print
+

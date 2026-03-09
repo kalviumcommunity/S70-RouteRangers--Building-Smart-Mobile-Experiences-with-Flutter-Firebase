@@ -1,0 +1,30 @@
+﻿Launching lib\main.dart on Windows in debug mode...
+flutter : Error: 
+Building with plugins 
+requires symlink 
+support.
+At line:1 char:1
++ flutter run -d 
+windows > 
+flutter_run_error.txt 
+2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Error: Buildi   
+ ng...ymlink suppor    
+t.:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+
+Please enable 
+Developer Mode in your 
+system settings. Run
+  start 
+ms-settings:developers
+to open settings.

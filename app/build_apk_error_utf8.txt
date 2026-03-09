@@ -1,0 +1,139 @@
+﻿Running Gradle task 'assembleRelease'...                        
+flutter : Could not 
+write file to "C:\\User
+s\\Dell\\Downloads\\S70
+-RouteRangers--Building
+-Smart-Mobile-Experienc
+es-with-Flutter-Firebas
+e-main\\S70-RouteRanger
+s--Building-Smart-Mobil
+e-Experiences-with-Flut
+ter-Firebase-main\\app\
+\build\\app\\intermedia
+tes\\flutter\\release\\
+flutter_assets\\shaders
+/ink_sparkle.frag"
+At line:1 char:1
++ flutter build apk > 
+build_apk_error.txt 
+2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Could not wri   
+ te...k_sparkle.fra    
+g":String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+
+Could not write file 
+to "C:\\Users\\Dell\\Do
+wnloads\\S70-RouteRange
+rs--Building-Smart-Mobi
+le-Experiences-with-Flu
+tter-Firebase-main\\S70
+-RouteRangers--Building
+-Smart-Mobile-Experienc
+es-with-Flutter-Firebas
+e-main\\app\\build\\app
+\\intermediates\\flutte
+r\\release\\flutter_ass
+ets\\shaders/stretch_ef
+fect.frag"
+
+Failed to open output 
+file 'C:\Users\Dell\Dow
+nloads\S70-RouteRangers
+--Building-Smart-Mobile
+-Experiences-with-Flutt
+er-Firebase-main\S70-Ro
+uteRangers--Building-Sm
+art-Mobile-Experiences-
+with-Flutter-Firebase-m
+ain\app\build\app\inter
+mediates\flutter\releas
+e\flutter_assets\fonts/
+MaterialIcons-Regular.o
+tf'. The parent 
+directory may not 
+exist, or the user 
+does not have 
+permission to create 
+this file.
+
+Target aot_android_asse
+t_bundle failed: Shader
+CompilerException: 
+Shader compilation of "
+C:\flutter\packages\flu
+tter\lib\src\material\s
+haders\ink_sparkle.frag
+" to "C:\Users\Dell\Dow
+nloads\S70-RouteRangers
+--Building-Smart-Mobile
+-Experiences-with-Flutt
+er-Firebase-main\S70-Ro
+uteRangers--Building-Sm
+art-Mobile-Experiences-
+with-Flutter-Firebase-m
+ain\app\build\app\inter
+mediates\flutter\releas
+e\flutter_assets\shader
+s/ink_sparkle.frag" 
+failed with exit code 
+1.
+impellerc stdout:
+
+impellerc stderr:
+Could not write file 
+to "C:\\Users\\Dell\\Do
+wnloads\\S70-RouteRange
+rs--Building-Smart-Mobi
+le-Experiences-with-Flu
+tter-Firebase-main\\S70
+-RouteRangers--Building
+-Smart-Mobile-Experienc
+es-with-Flutter-Firebas
+e-main\\app\\build\\app
+\\intermediates\\flutte
+r\\release\\flutter_ass
+ets\\shaders/ink_sparkl
+e.frag"
+
+
+
+
+
+FAILURE: Build failed 
+with an exception.
+
+* What went wrong:
+Execution failed for 
+task ':app:compileFlutt
+erBuildRelease'.
+> Process 'command 'C:\
+flutter\bin\flutter.bat
+'' finished with 
+non-zero exit value 1
+
+* Try:
+> Run with 
+--stacktrace option to 
+get the stack trace.
+> Run with --info or 
+--debug option to get 
+more log output.
+> Run with --scan to 
+get full insights.
+> Get more help at http
+s://help.gradle.org.
+
+BUILD FAILED in 8s
+Running Gradle task 'assembleRelease'...                            9.4s
+Gradle task 
+assembleRelease failed 
+with exit code 1

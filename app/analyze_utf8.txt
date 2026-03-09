@@ -1,0 +1,14 @@
+﻿Analyzing app...                                                
+
+  error - Target of URI doesn't exist: 'package:latlong2/latlong2.dart' - lib\screens\map_tab.dart:3:8 - uri_does_not_exist
+  error - Undefined class 'LatLng' - lib\screens\map_tab.dart:18:3 - undefined_class
+  error - The name 'LatLng' isn't a class - lib\screens\map_tab.dart:18:35 - creation_with_non_type
+  error - The method 'LatLng' isn't defined for the type '_MapTabState' - lib\screens\map_tab.dart:53:26 - undefined_method
+  error - Undefined class 'LatLng' - lib\screens\map_tab.dart:58:24 - undefined_class
+  error - Undefined class 'LatLng' - lib\screens\map_tab.dart:62:46 - undefined_class
+  error - The method 'LatLng' isn't defined for the type '_MapTabState' - lib\screens\map_tab.dart:133:16 - undefined_method
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:16:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:26:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\auth_service.dart:45:7 - avoid_print
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+

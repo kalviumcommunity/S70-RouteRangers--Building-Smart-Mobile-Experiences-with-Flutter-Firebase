@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299462715471",
+    "project_id": "route-hive-53a5e",
+    "storage_bucket": "route-hive-53a5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299462715471:android:a898271b90b4406107e23a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59ZwCDViOzbWkmZCLvRXSC2zXCgD89q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
